@@ -5,6 +5,10 @@ The application dynamically renders product data from a JSON structure and provi
 
 ---
 
+## ✨ Live Demo
+
+🔗 https://catalogue-app-kappa.vercel.app/
+
 ---
 
 ## 📌 Features
